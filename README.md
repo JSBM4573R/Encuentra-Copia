@@ -1,5 +1,5 @@
 # encuentra-copia
-Reto 4 Python Ciclo 1 MinTic - Desarrollo de un programa que detecta la cantidad de laminas repetidas retornando su cantidad.
+Reto 4 Python - Desarrollo de un programa que detecta la cantidad de laminas repetidas retornando su cantidad.
 
 ## Reto:
 ### Entrada
